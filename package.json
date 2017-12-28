@@ -1,0 +1,28 @@
+{
+  "name": "dx-locale-zh-cn",
+  "version": "1.0.0",
+  "description": "Chinese localization messages for DevExpress/DevExtreme",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beginor/dx-locale-zh-cn.git"
+  },
+  "keywords": [
+    "devexpress",
+    "devextreme",
+    "locale",
+    "chinese",
+    "dx",
+    "locale",
+    "chinese"
+  ],
+  "author": "beginor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beginor/dx-locale-zh-cn/issues"
+  },
+  "homepage": "https://github.com/beginor/dx-locale-zh-cn#readme"
+}

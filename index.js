@@ -1,7 +1,7 @@
 export const localeMessages = {
     'zh-cn': {
-        'Yes': '是的',
-        'No': '不是',
+        'Yes': '是',
+        'No': '否',
         'Cancel': '取消',
         'Clear': '清除',
         'Done': '完成',
@@ -9,7 +9,7 @@ export const localeMessages = {
         'Select': '选择...',
         'Search': '搜索',
         'Back': '返回',
-        'OK': '好的',
+        'OK': '确定',
 
         'dxCollectionWidget-noDataText': '没有要显示的数据',
 

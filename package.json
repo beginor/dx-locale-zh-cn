@@ -1,6 +1,6 @@
 {
   "name": "dx-locale-zh-cn",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Chinese localization messages for DevExpress/DevExtreme",
   "main": "index.js",
   "scripts": {

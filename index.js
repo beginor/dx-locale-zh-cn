@@ -150,8 +150,8 @@ export const localeMessages = {
         'dxTreeList-ariaTreeList': '树列表',
         'dxTreeList-editingAddRowToNode': '添加',
 
-        'dxPager-infoText': '{1} ({2} 项目)在{0}页',
-        'dxPager-pagesCountText': '于',
+        'dxPager-infoText': '第{0}页,共{1}页 ({2} 项目)',
+        'dxPager-pagesCountText': '到',
 
         'dxPivotGrid-grandTotal': '总计',
         'dxPivotGrid-total': '{0} 总计',
